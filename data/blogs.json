@@ -5,7 +5,7 @@
     "url": "./blogs/dont-be-that-house-your-friendly-nc-guide-to-avoiding-halloween-candy-fails.html",
     "linkUrl": "./blogs/dont-be-that-house-your-friendly-nc-guide-to-avoiding-halloween-candy-fails.html",
     "readMoreUrl": "./blogs/dont-be-that-house-your-friendly-nc-guide-to-avoiding-halloween-candy-fails.html",
-    "imageUrl": "https://raw.githubusercontent.com/BillLayne/bill-layne-images/main/Blog%20Images/halloween-candy-hero.png",
+    "imageUrl": "./assets/images/halloween-candy-hero.jpg",
     "summary": "An in-depth guide on the worst candy to give on Halloween in NC, offering expert advice for North Carolina residents.",
     "tags": ["Community Life", "Halloween", "North Carolina", "Family Fun", "Local Entertainment"],
     "author": "Bill Layne",
