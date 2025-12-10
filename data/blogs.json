@@ -1,5 +1,26 @@
 [
   {
+    "id": "nc-driver-iq-test-blog",
+    "title": "NC Driver IQ Test: Traffic Laws & Insurance Rules Quiz",
+    "url": "./blogs/nc-driver-iq-test-blog.html",
+    "linkUrl": "./blogs/nc-driver-iq-test-blog.html",
+    "readMoreUrl": "./blogs/nc-driver-iq-test-blog.html",
+    "imageUrl": "./assets/images/nc-driver-iq-test-blog-hero.png",
+    "summary": "Think you know NC driving laws? 85% of drivers fail at least 3 questions on this 15-question quiz about traffic rules and insurance requirements.",
+    "tags": [
+      "Auto Insurance",
+      "NC Traffic Laws",
+      "Driver Education",
+      "Quiz",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2025-12-10",
+    "category": "Auto Insurance",
+    "readTime": "8 min read",
+    "featured": true
+  },
+  {
     "id": "nc-insurance-myths-true-false-challenge",
     "title": "NC Insurance Myths: True or False? Test Your Knowledge Challenge",
     "url": "./blogs/nc-insurance-myths-true-false-challenge.html",
