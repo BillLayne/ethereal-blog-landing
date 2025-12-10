@@ -1,5 +1,26 @@
 [
   {
+    "id": "nc-insurance-myths-true-false-challenge",
+    "title": "NC Insurance Myths: True or False? Test Your Knowledge Challenge",
+    "url": "./blogs/nc-insurance-myths-true-false-challenge.html",
+    "linkUrl": "./blogs/nc-insurance-myths-true-false-challenge.html",
+    "readMoreUrl": "./blogs/nc-insurance-myths-true-false-challenge.html",
+    "imageUrl": "./assets/images/nc-insurance-myths-true-false-challenge-hero.png",
+    "summary": "Think you know NC car insurance? Take our True/False challenge! Debunk 10 common myths that cost North Carolina drivers hundreds yearly.",
+    "tags": [
+      "Auto Insurance",
+      "Insurance Myths",
+      "NC Insurance",
+      "Quiz",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2025-12-10",
+    "category": "Auto Insurance",
+    "readTime": "8 min read",
+    "featured": true
+  },
+  {
     "id": "nc-bootlegger-car-insurance-guide",
     "title": "The Bootlegger's Guide to NC Car Insurance: Moonshine Heritage & Modern Coverage",
     "url": "./blogs/nc-bootlegger-car-insurance-guide.html",
