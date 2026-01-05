@@ -1,5 +1,25 @@
 [
   {
+    "id": "medpay-elkin-superhero",
+    "title": "Crashed in Elkin? Why MedPay is the Real Superhero for Your Wallet!",
+    "url": "./blogs/medpay-elkin-blog.html",
+    "linkUrl": "./blogs/medpay-elkin-blog.html",
+    "readMoreUrl": "./blogs/medpay-elkin-blog.html",
+    "imageUrl": "./assets/images/medpay-elkin-hero.jpg",
+    "summary": "MedPay is the secret financial airbag for NC drivers. Learn why this affordable coverage pays medical bills after any accident—regardless of fault—with no deductible.",
+    "tags": [
+      "Auto Insurance",
+      "MedPay",
+      "Medical Payments",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-05",
+    "category": "Auto Insurance",
+    "readTime": "8 min read",
+    "featured": true
+  },
+  {
     "id": "19-day-curse-resolution",
     "title": "The 19-Day Curse: NC's Easiest Resolution That Actually Saves Money",
     "url": "./blogs/19-day-curse-resolution-insurance-nc.html",
