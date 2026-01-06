@@ -1,5 +1,25 @@
 [
   {
+    "id": "15-year-roof-death-sentence",
+    "title": "The 15-Year Roof Death Sentence: Is Your NC Home About to Be Uninsurable?",
+    "url": "./blogs/15-year-roof-death-sentence.html",
+    "linkUrl": "./blogs/15-year-roof-death-sentence.html",
+    "readMoreUrl": "./blogs/15-year-roof-death-sentence.html",
+    "imageUrl": "./assets/images/15-year-roof-death-sentence-hero.png",
+    "summary": "Insurance carriers are scanning satellite imagery to find older roofs and cancel coverage. Learn how NC's hidden 15-year roof rule could leave your home uninsurable after a storm.",
+    "tags": [
+      "Home Insurance",
+      "Roof Coverage",
+      "NC Insurance",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-06",
+    "category": "Home Insurance",
+    "readTime": "8 min read",
+    "featured": true
+  },
+  {
     "id": "nc-pjc-lookback-rule",
     "title": "The PJC Lookback: The Secret Rule Change Trapping NC Drivers",
     "url": "./blogs/nc-pjc-lookback-5-year-rule.html",
@@ -66,7 +86,7 @@
     "linkUrl": "./blogs/medpay-elkin-blog.html",
     "readMoreUrl": "./blogs/medpay-elkin-blog.html",
     "imageUrl": "./assets/images/medpay-elkin-hero.jpg",
-    "summary": "MedPay is the secret financial airbag for NC drivers. Learn why this affordable coverage pays medical bills after any accident—regardless of fault—with no deductible.",
+    "summary": "MedPay is the secret financial airbag for NC drivers. Learn why this affordable coverage pays medical bills after any accident\u2014regardless of fault\u2014with no deductible.",
     "tags": [
       "Auto Insurance",
       "MedPay",
@@ -651,7 +671,7 @@
   },
   {
     "id": "nc-snowy-winter-home-insurance",
-    "title": "Brace for Snow, NC! Farmers' Almanac Predicts a Snowy Winter – Is Your Home Insurance Up to Snuff?",
+    "title": "Brace for Snow, NC! Farmers' Almanac Predicts a Snowy Winter \u2013 Is Your Home Insurance Up to Snuff?",
     "url": "./blogs/brace-for-snow-nc-farmers-almanac-predicts-a-snowy-winter-is-your-home-insurance-up-to-snuff.html",
     "linkUrl": "./blogs/brace-for-snow-nc-farmers-almanac-predicts-a-snowy-winter-is-your-home-insurance-up-to-snuff.html",
     "readMoreUrl": "./blogs/brace-for-snow-nc-farmers-almanac-predicts-a-snowy-winter-is-your-home-insurance-up-to-snuff.html",
@@ -2007,7 +2027,7 @@
   },
   {
     "id": "2025-07-surry-fall-festivals",
-    "title": "🍂 Fall Festivals, Farm Fun & Foliage: Your Surry County Autumn Bucket List",
+    "title": "\ud83c\udf42 Fall Festivals, Farm Fun & Foliage: Your Surry County Autumn Bucket List",
     "summary": "Discover the best 2025 fall festivals, pumpkin patches, and autumn activities in Surry County, NC. Your local guide from Bill Layne Insurance in Elkin, NC.",
     "date": "2025-07-31",
     "tags": [
@@ -2345,7 +2365,7 @@
   },
   {
     "id": "2025-07-non-owner-insurance",
-    "title": "Non-Owner Car Insurance in NC: Who Qualifies—and Who Doesn't",
+    "title": "Non-Owner Car Insurance in NC: Who Qualifies\u2014and Who Doesn't",
     "summary": "Do you borrow cars often or need an SR-22? Find out if non-owner car insurance in North Carolina is the right, affordable solution for you.",
     "date": "2025-07-08",
     "tags": [
