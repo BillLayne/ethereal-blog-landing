@@ -1,5 +1,25 @@
 [
   {
+    "id": "house-grew-30000-christmas",
+    "title": "Why Your House Grew $30,000 Over Christmas",
+    "url": "./blogs/house-grew-30000-christmas.html",
+    "linkUrl": "./blogs/house-grew-30000-christmas.html",
+    "readMoreUrl": "./blogs/house-grew-30000-christmas.html",
+    "imageUrl": "./assets/images/house-grew-30000-christmas-hero.png",
+    "summary": "Your home's replacement cost silently increased over the holidays. Lumber, copper, and labor prices mean your old policy may leave you dangerously underinsured.",
+    "tags": [
+      "Home Insurance",
+      "Replacement Cost",
+      "Inflation",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-06",
+    "category": "Home Insurance",
+    "readTime": "7 min read",
+    "featured": true
+  },
+  {
     "id": "elkin-insurance-buffet",
     "title": "The One-Flavor Ice Cream Nightmare vs. The Elkin Insurance Buffet",
     "url": "./blogs/elkin-insurance-buffet.html",
