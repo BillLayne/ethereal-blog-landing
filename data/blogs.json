@@ -1,5 +1,25 @@
 [
   {
+    "id": "non-renewal-ghost",
+    "title": "The Non-Renewal Ghost: Is Your Insurance Policy About to Vanish?",
+    "url": "./blogs/non-renewal-ghost.html",
+    "linkUrl": "./blogs/non-renewal-ghost.html",
+    "readMoreUrl": "./blogs/non-renewal-ghost.html",
+    "imageUrl": "./assets/images/non-renewal-ghost-hero.png",
+    "summary": "Insurance carriers are 'ghosting' NC policyholders with non-renewals. Learn the difference between cancellation and non-renewal, and what to do when that dreaded letter arrives.",
+    "tags": [
+      "Home Insurance",
+      "Non-Renewal",
+      "NC Insurance",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-06",
+    "category": "Home Insurance",
+    "readTime": "7 min read",
+    "featured": true
+  },
+  {
     "id": "roof-expiration-date",
     "title": "SPOILER ALERT: Your Roof Has An Expiration Date!",
     "url": "./blogs/roof-expiration-date.html",
