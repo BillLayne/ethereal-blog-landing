@@ -1,5 +1,25 @@
 [
   {
+    "id": "secret-scoreboard-dmv-insurance-points",
+    "title": "The Secret Scoreboard: DMV vs Insurance Points",
+    "url": "./blogs/the-secret-scoreboard-why-your-dmv-points-and-insurance-points-are-not-the-same-team.html",
+    "linkUrl": "./blogs/the-secret-scoreboard-why-your-dmv-points-and-insurance-points-are-not-the-same-team.html",
+    "readMoreUrl": "./blogs/the-secret-scoreboard-why-your-dmv-points-and-insurance-points-are-not-the-same-team.html",
+    "imageUrl": "./assets/images/secret-scoreboard-dmv-insurance-points-hero.png",
+    "summary": "Your DMV record and your insurance record are two completely different scorecards. Learn why a clean driving record doesn't always mean lower premiums.",
+    "tags": [
+      "Auto Insurance",
+      "DMV Points",
+      "Insurance Points",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-08",
+    "category": "Auto Insurance",
+    "readTime": "7 min read",
+    "featured": true
+  },
+  {
     "id": "secret-home-insurance-hack",
     "title": "The Secret Home Insurance Hack NC Neighbors Love",
     "url": "./blogs/the-secret-home-insurance-hack-nc-neighbors-love-and-why-your-house-needs-it-now.html",
