@@ -1,5 +1,25 @@
 [
   {
+    "id": "toyota-does-not-make-glass",
+    "title": "TOYOTA DOES NOT MAKE GLASS?!",
+    "url": "./blogs/toyota-does-not-make-glass-.html",
+    "linkUrl": "./blogs/toyota-does-not-make-glass-.html",
+    "readMoreUrl": "./blogs/toyota-does-not-make-glass-.html",
+    "imageUrl": "./assets/images/toyota-does-not-make-glass-hero.png",
+    "summary": "The secret your car dealer doesn't want you to know. Learn the truth about OEM vs aftermarket auto glass and how it affects your insurance claim.",
+    "tags": [
+      "Auto Insurance",
+      "Glass Claims",
+      "OEM Parts",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-09",
+    "category": "Auto Insurance",
+    "readTime": "7 min read",
+    "featured": true
+  },
+  {
     "id": "x-ray-your-house-elkin",
     "title": "X-Ray Your House: Why \"I Didn't See It\" Isn't a Legal Defense in Elkin",
     "url": "./blogs/x-ray-your-house-why-i-didnt-see-it-isnt-a-legal-defense-in-elkin.html",
