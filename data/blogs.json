@@ -1,5 +1,25 @@
 [
   {
+    "id": "x-ray-your-house-elkin",
+    "title": "X-Ray Your House: Why \"I Didn't See It\" Isn't a Legal Defense in Elkin",
+    "url": "./blogs/x-ray-your-house-why-i-didnt-see-it-isnt-a-legal-defense-in-elkin.html",
+    "linkUrl": "./blogs/x-ray-your-house-why-i-didnt-see-it-isnt-a-legal-defense-in-elkin.html",
+    "readMoreUrl": "./blogs/x-ray-your-house-why-i-didnt-see-it-isnt-a-legal-defense-in-elkin.html",
+    "imageUrl": "./assets/images/x-ray-your-house-hero.png",
+    "summary": "Ignorance isn't bliss—it's a lawsuit waiting to happen. Learn how to protect your assets in Surry County by understanding premises liability.",
+    "tags": [
+      "Home Insurance",
+      "Liability",
+      "Premises Safety",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-09",
+    "category": "Home Insurance",
+    "readTime": "7 min read",
+    "featured": true
+  },
+  {
     "id": "ghost-coverage-insured-garage",
     "title": "Ghost Coverage: The Myth of the 'Insured Garage'!",
     "url": "./blogs/ghost-coverage-the-myth-of-the-insured-garage.html",
@@ -166,7 +186,7 @@
     "linkUrl": "./blogs/elkin-insurance-buffet.html",
     "readMoreUrl": "./blogs/elkin-insurance-buffet.html",
     "imageUrl": "./assets/images/elkin-insurance-buffet-hero.png",
-    "summary": "Captive agents sell one brand\u2014like serving only beige mush. Independent agents offer a buffet of options. Learn why NC families are switching to independent agencies.",
+    "summary": "Captive agents sell one brand—like serving only beige mush. Independent agents offer a buffet of options. Learn why NC families are switching to independent agencies.",
     "tags": [
       "Auto Insurance",
       "Home Insurance",
@@ -206,7 +226,7 @@
     "linkUrl": "./blogs/nc-group-project-rate-increase.html",
     "readMoreUrl": "./blogs/nc-group-project-rate-increase.html",
     "imageUrl": "./assets/images/nc-group-project-rate-increase-hero.png",
-    "summary": "Perfect driving record but rates still going up? Learn why NC's 'social inflation' and statewide claims trends affect every driver's premium\u2014even yours.",
+    "summary": "Perfect driving record but rates still going up? Learn why NC's 'social inflation' and statewide claims trends affect every driver's premium—even yours.",
     "tags": [
       "Auto Insurance",
       "Rate Increases",
@@ -226,7 +246,7 @@
     "linkUrl": "./blogs/5000-headlight.html",
     "readMoreUrl": "./blogs/5000-headlight.html",
     "imageUrl": "./assets/images/5000-headlight-hero.png",
-    "summary": "Modern headlights aren't just glass and bulbs\u2014they're laser-guided computer systems. Learn why a simple fender bender could cost NC drivers thousands in repairs.",
+    "summary": "Modern headlights aren't just glass and bulbs—they're laser-guided computer systems. Learn why a simple fender bender could cost NC drivers thousands in repairs.",
     "tags": [
       "Auto Insurance",
       "Car Repairs",
@@ -386,7 +406,7 @@
     "linkUrl": "./blogs/medpay-elkin-blog.html",
     "readMoreUrl": "./blogs/medpay-elkin-blog.html",
     "imageUrl": "./assets/images/medpay-elkin-hero.jpg",
-    "summary": "MedPay is the secret financial airbag for NC drivers. Learn why this affordable coverage pays medical bills after any accident\u2014regardless of fault\u2014with no deductible.",
+    "summary": "MedPay is the secret financial airbag for NC drivers. Learn why this affordable coverage pays medical bills after any accident—regardless of fault—with no deductible.",
     "tags": [
       "Auto Insurance",
       "MedPay",
@@ -971,7 +991,7 @@
   },
   {
     "id": "nc-snowy-winter-home-insurance",
-    "title": "Brace for Snow, NC! Farmers' Almanac Predicts a Snowy Winter \u2013 Is Your Home Insurance Up to Snuff?",
+    "title": "Brace for Snow, NC! Farmers' Almanac Predicts a Snowy Winter – Is Your Home Insurance Up to Snuff?",
     "url": "./blogs/brace-for-snow-nc-farmers-almanac-predicts-a-snowy-winter-is-your-home-insurance-up-to-snuff.html",
     "linkUrl": "./blogs/brace-for-snow-nc-farmers-almanac-predicts-a-snowy-winter-is-your-home-insurance-up-to-snuff.html",
     "readMoreUrl": "./blogs/brace-for-snow-nc-farmers-almanac-predicts-a-snowy-winter-is-your-home-insurance-up-to-snuff.html",
@@ -2327,7 +2347,7 @@
   },
   {
     "id": "2025-07-surry-fall-festivals",
-    "title": "\ud83c\udf42 Fall Festivals, Farm Fun & Foliage: Your Surry County Autumn Bucket List",
+    "title": "🍂 Fall Festivals, Farm Fun & Foliage: Your Surry County Autumn Bucket List",
     "summary": "Discover the best 2025 fall festivals, pumpkin patches, and autumn activities in Surry County, NC. Your local guide from Bill Layne Insurance in Elkin, NC.",
     "date": "2025-07-31",
     "tags": [
@@ -2665,7 +2685,7 @@
   },
   {
     "id": "2025-07-non-owner-insurance",
-    "title": "Non-Owner Car Insurance in NC: Who Qualifies\u2014and Who Doesn't",
+    "title": "Non-Owner Car Insurance in NC: Who Qualifies—and Who Doesn't",
     "summary": "Do you borrow cars often or need an SR-22? Find out if non-owner car insurance in North Carolina is the right, affordable solution for you.",
     "date": "2025-07-08",
     "tags": [
