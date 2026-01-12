@@ -1,5 +1,25 @@
 [
   {
+    "id": "12-sign-challenge",
+    "title": "The 12-Sign Challenge: 9 or You're Walking!",
+    "url": "./blogs/the-12-sign-challenge-9-or-youre-walking.html",
+    "linkUrl": "./blogs/the-12-sign-challenge-9-or-youre-walking.html",
+    "readMoreUrl": "./blogs/the-12-sign-challenge-9-or-youre-walking.html",
+    "imageUrl": "./assets/images/12-sign-challenge-hero.png",
+    "summary": "Can you identify these 12 critical NC road signs? Most Elkin drivers fail #7. Missing these is the #1 cause of failure-to-yield accidents in Surry County.",
+    "tags": [
+      "Auto Insurance",
+      "Road Signs",
+      "Safe Driving",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-12",
+    "category": "Auto Insurance",
+    "readTime": "8 min read",
+    "featured": true
+  },
+  {
     "id": "dmv-dl-123-form-trap",
     "title": "The DMV's Most Hated Mistake: The DL-123 Form Trap!",
     "url": "./blogs/the-dmvs-most-hated-mistake-the-dl-123-form-trap.html",
