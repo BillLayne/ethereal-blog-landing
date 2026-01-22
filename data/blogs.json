@@ -1,5 +1,145 @@
 [
   {
+    "id": "stop-the-tow-rental",
+    "title": "STOP THE TOW! The One Secret Reason Your Insurance Won't Pay for That Rental Today",
+    "url": "./blogs/stop-the-tow-the-one-secret-reason-your-insurance-wont-pay-for-that-rental-today.html",
+    "linkUrl": "./blogs/stop-the-tow-the-one-secret-reason-your-insurance-wont-pay-for-that-rental-today.html",
+    "readMoreUrl": "./blogs/stop-the-tow-the-one-secret-reason-your-insurance-wont-pay-for-that-rental-today.html",
+    "imageUrl": "./assets/images/stop-the-tow-rental-hero.jpg",
+    "summary": "Your car broke down but rental coverage won't kick in? Learn the secret trigger that determines when your NC auto policy actually pays for a rental car.",
+    "tags": [
+      "Auto Insurance",
+      "Rental Coverage",
+      "Claims",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "Auto Insurance",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": "pizza-slice-penalty",
+    "title": "The Pizza Slice Penalty: The Truth About NC Short Rates",
+    "url": "./blogs/the-pizza-slice-penalty-the-truth-about-nc-short-rates.html",
+    "linkUrl": "./blogs/the-pizza-slice-penalty-the-truth-about-nc-short-rates.html",
+    "readMoreUrl": "./blogs/the-pizza-slice-penalty-the-truth-about-nc-short-rates.html",
+    "imageUrl": "./assets/images/pizza-slice-penalty-hero.jpg",
+    "summary": "Cancel your policy early and you won't get a full slice of your premium back. Learn how NC short-rate cancellation works—and why timing matters for your refund.",
+    "tags": [
+      "Auto Insurance",
+      "Home Insurance",
+      "Cancellation Fees",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "Auto Insurance",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": "1460-day-oops",
+    "title": "The 1,460 Day Oops: Is Your Agent Still On The Hook?",
+    "url": "./blogs/the-1460-day-oops-is-your-agent-still-on-the-hook.html",
+    "linkUrl": "./blogs/the-1460-day-oops-is-your-agent-still-on-the-hook.html",
+    "readMoreUrl": "./blogs/the-1460-day-oops-is-your-agent-still-on-the-hook.html",
+    "imageUrl": "./assets/images/1460-day-oops-hero.jpg",
+    "summary": "Your agent made a mistake 4 years ago—can you still hold them accountable? Learn about NC's statute of limitations for insurance agent errors and omissions.",
+    "tags": [
+      "Insurance Agents",
+      "E&O Coverage",
+      "NC Law",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "General",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": "invisible-passenger-trap",
+    "title": "CLAIM DENIED: The Invisible Passenger Trap!",
+    "url": "./blogs/claim-denied-the-invisible-passenger-trap-.html",
+    "linkUrl": "./blogs/claim-denied-the-invisible-passenger-trap-.html",
+    "readMoreUrl": "./blogs/claim-denied-the-invisible-passenger-trap-.html",
+    "imageUrl": "./assets/images/invisible-passenger-trap-hero.jpg",
+    "summary": "Letting a friend ride in your work truck? That 'invisible passenger' could get your claim denied. Learn why NC commercial auto policies don't cover unauthorized riders.",
+    "tags": [
+      "Auto Insurance",
+      "Commercial Auto",
+      "Claims",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "Auto Insurance",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": "insurance-magic-trick-bumper",
+    "title": "The Insurance Magic Trick: How Fixing a Bumper Erases Your Citation!",
+    "url": "./blogs/the-insurance-magic-trick-how-fixing-a-bumper-erases-your-citation.html",
+    "linkUrl": "./blogs/the-insurance-magic-trick-how-fixing-a-bumper-erases-your-citation.html",
+    "readMoreUrl": "./blogs/the-insurance-magic-trick-how-fixing-a-bumper-erases-your-citation.html",
+    "imageUrl": "./assets/images/insurance-magic-trick-hero.jpg",
+    "summary": "Got a fix-it ticket in NC? Learn how repairing equipment violations can make citations disappear from your record—and keep your insurance rates from climbing.",
+    "tags": [
+      "Auto Insurance",
+      "Traffic Citations",
+      "NC Law",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "Auto Insurance",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": "silverware-secret-proof",
+    "title": "STOP! You're NOT Being Charged for Silverware—Here's the Secret Proof",
+    "url": "./blogs/stop-youre-not-being-charged-for-silverwareheres-the-secret-proof.html",
+    "linkUrl": "./blogs/stop-youre-not-being-charged-for-silverwareheres-the-secret-proof.html",
+    "readMoreUrl": "./blogs/stop-youre-not-being-charged-for-silverwareheres-the-secret-proof.html",
+    "imageUrl": "./assets/images/silverware-secret-proof-hero.jpg",
+    "summary": "Think you're paying extra for silverware coverage? You're not. Learn the truth about special limits on your NC homeowners policy and what's actually covered.",
+    "tags": [
+      "Home Insurance",
+      "Coverage Limits",
+      "Myths",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "Home Insurance",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": "claim-the-cold",
+    "title": "Claim the Cold: The Before the Power Goes Out Urgent Checklist",
+    "url": "./blogs/claim-the-cold-the-before-the-power-goes-out-urgent-checklist.html",
+    "linkUrl": "./blogs/claim-the-cold-the-before-the-power-goes-out-urgent-checklist.html",
+    "readMoreUrl": "./blogs/claim-the-cold-the-before-the-power-goes-out-urgent-checklist.html",
+    "imageUrl": "./assets/images/claim-the-cold-hero.jpg",
+    "summary": "Winter storm coming? Document your home NOW before the power goes out. This urgent checklist helps NC homeowners protect their insurance claims when pipes freeze or trees fall.",
+    "tags": [
+      "Home Insurance",
+      "Winter Weather",
+      "Claims",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "Home Insurance",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
     "id": "short-rate-shredder",
     "title": "The Short-Rate Shredder: Watch $100 Vanish Because You Cancelled Too Soon",
     "url": "./blogs/the-short-rate-shredder-watch-100-vanish-because-you-cancelled-too-soon.html",
