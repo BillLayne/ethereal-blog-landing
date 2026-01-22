@@ -1,5 +1,25 @@
 [
   {
+    "id": "short-rate-shredder",
+    "title": "The Short-Rate Shredder: Watch $100 Vanish Because You Cancelled Too Soon",
+    "url": "./blogs/the-short-rate-shredder-watch-100-vanish-because-you-cancelled-too-soon.html",
+    "linkUrl": "./blogs/the-short-rate-shredder-watch-100-vanish-because-you-cancelled-too-soon.html",
+    "readMoreUrl": "./blogs/the-short-rate-shredder-watch-100-vanish-because-you-cancelled-too-soon.html",
+    "imageUrl": "./assets/images/short-rate-shredder-hero.jpg",
+    "summary": "Cancel your policy early and watch your refund shrink. Learn how short-rate cancellation penalties work and why timing your switch could save you $100 or more.",
+    "tags": [
+      "Auto Insurance",
+      "Home Insurance",
+      "Cancellation Fees",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-22",
+    "category": "Auto Insurance",
+    "readTime": "7 min read",
+    "featured": true
+  },
+  {
     "id": "12-sign-challenge",
     "title": "The 12-Sign Challenge: 9 or You're Walking!",
     "url": "./blogs/the-12-sign-challenge-9-or-youre-walking.html",
