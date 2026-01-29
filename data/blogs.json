@@ -1,5 +1,26 @@
 [
   {
+    "id": "home-insurance-double-tap-15",
+    "title": "Home Insurance Double-Tap: The 15% Climb is Here!",
+    "url": "./blogs/home-insurance-double-tap-the-15-climb-is-here.html",
+    "linkUrl": "./blogs/home-insurance-double-tap-the-15-climb-is-here.html",
+    "readMoreUrl": "./blogs/home-insurance-double-tap-the-15-climb-is-here.html",
+    "imageUrl": "./assets/images/home-insurance-double-tap-hero.jpg",
+    "summary": "The 'Double-Tap' is hitting North Carolina hard. Homeowners across Elkin, Surry County, and the Triad are seeing rate adjustments averaging a steep 15% climb.",
+    "tags": [
+      "Home Insurance",
+      "Rate Increases",
+      "Elkin",
+      "Surry County",
+      "North Carolina"
+    ],
+    "author": "Bill Layne",
+    "date": "2026-01-28",
+    "category": "Home Insurance",
+    "readTime": "7 min read",
+    "featured": true
+  },
+  {
     "id": "elkin-landlords-dwelling-2026",
     "title": "Elkin Landlords: The 2026 Dwelling Policy Explosion",
     "url": "./blogs/elkin-landlords-the-2026-dwelling-policy-explosion-.html",
